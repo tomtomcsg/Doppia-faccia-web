@@ -2,3 +2,15 @@ div{
     background-color: black;
     height: 200px;
 }
+.title{
+    background-color: black;
+    font-size: 50px;
+    color: yellow;
+    margin: 0%;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.logo{
+    text-align: center;
+    size: 20px;
+}
