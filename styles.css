@@ -16,3 +16,16 @@ div{
     margin: 0 auto;
     size: 40px;
 }
+nav {
+    background-color: yellow;
+    text-align: center;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+a{
+    display: inline-block;
+    padding: 10px 10px;
+    font-size: large;
+    color: black;
+    border-radius: 10px;
+    border-color: black;
+}
