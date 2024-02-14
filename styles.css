@@ -29,3 +29,12 @@ a{
     border-radius: 10px;
     border-color: black;
 }
+.vid-contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+iframe{
+    margin: 0 10px;
+}
