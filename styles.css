@@ -9,6 +9,7 @@
 }
 body{
     background-color: black;
+    color: yellow;
 }
 div{
     background-color: black;
@@ -64,9 +65,17 @@ iframe{
     display: flex;
     flex-direction: column;
     font-family:'Times New Roman', Times, serif;
-    align-items: flex-end;
     justify-content: center;
+    align-items: center;
 }
 .socials{
-    color: yellow;
+   
+}
+.bottom-head{
+    font-size: 50px;
+    font-weight: 15;
+}
+ul{
+    font-size: 25px;
+    list-style: none;
 }
